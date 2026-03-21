@@ -1,6 +1,6 @@
 spring:
   application:
-    name: HOTEL-SERVICE
+    name: DEAULT-SERVICE
 eureka:
   client:
     service-url:
